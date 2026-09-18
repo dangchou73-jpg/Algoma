@@ -1,2 +1,2 @@
-# Algoma
-Nothing 
+# Algoritms
+Explaining algorithm material briefly... Maybe
